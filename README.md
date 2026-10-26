@@ -31,9 +31,12 @@
 
 ---
 
-<h2 align="center">Tech Stack & Skills</h2>
+<h2 align="center"><strong>Tech Stack & Skills</strong></h2>
 
-<p align="center"><b>Programming Languages</b></p>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,7 +45,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-<p align="center"><b>Frontend Development</b></p>
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,7 +59,10 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-<p align="center"><b>Backend Development</b></p>
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -61,7 +70,10 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
 </p>
 
-<p align="center"><b>Databases & Data</b></p>
+<h3 align="center">Databases & Data</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -73,7 +85,10 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-<p align="center"><b>AI, Generative AI & Machine Learning</b></p>
+<h3 align="center">AI, Generative AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLMs-22D3EE?style=for-the-badge&logo=googlegemini&logoColor=0D1117" alt="Large Language Models" />
@@ -86,7 +101,10 @@
   <img src="https://img.shields.io/badge/AI_Chatbots-8B5CF6?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Chatbots" />
 </p>
 
-<p align="center"><b>Blockchain & Web3</b></p>
+<h3 align="center">Blockchain & Web3</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
@@ -95,7 +113,10 @@
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
 </p>
 
-<p align="center"><b>Tools, Deployment & DevOps</b></p>
+<h3 align="center">Tools, Deployment & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="6" width="160" alt="" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

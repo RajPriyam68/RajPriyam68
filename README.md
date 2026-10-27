@@ -129,14 +129,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="4" width="120" alt="" />
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="4" width="120" alt="" />
+</p>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center"><strong>Featured Projects</strong></h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>PeerMatch</h3>
+      <h3><a href="https://github.com/RajPriyam68/PeerMatch">PeerMatch</a></h3>
       <p>Blockchain-based peer-to-peer renewable energy marketplace with intelligent matching, dynamic price discovery, and transparent on-chain settlement evidence.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -147,10 +150,12 @@
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
         <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
       </p>
-      <p><a href="https://github.com/RajPriyam68/PeerMatch">Repository</a></p>
+      <p>
+        <a href="https://github.com/RajPriyam68/PeerMatch"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="PeerMatch repository" /></a>
+      </p>
     </td>
     <td valign="top" width="50%">
-      <h3>LongevIQ</h3>
+      <h3><a href="https://github.com/RajPriyam68/LongevIQ">LongevIQ</a></h3>
       <p>AI health copilot for medical-document understanding, conversational retrieval, and personalized wellness planning. Educational and non-diagnostic.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -160,12 +165,14 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
       </p>
-      <p><a href="https://github.com/RajPriyam68/LongevIQ">Repository</a></p>
+      <p>
+        <a href="https://github.com/RajPriyam68/LongevIQ"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="LongevIQ repository" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>AI Knowledge Base</h3>
+      <h3><a href="https://github.com/RajPriyam68/ai-knowledge-base">AI Knowledge Base</a></h3>
       <p>Document question-answering platform using retrieval-augmented generation, embeddings, and cited answers over uploaded files.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -175,21 +182,25 @@
         <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
       </p>
-      <p><a href="https://github.com/RajPriyam68/ai-knowledge-base">Repository</a></p>
+      <p>
+        <a href="https://github.com/RajPriyam68/ai-knowledge-base"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="AI Knowledge Base repository" /></a>
+      </p>
     </td>
     <td valign="top" width="50%">
-      <h3>EmpathAI</h3>
+      <h3><a href="https://github.com/RajPriyam68/EmpathAi">EmpathAI</a></h3>
       <p>Non-clinical mental health support companion with multi-turn conversation, sentiment scoring, session memory, and observability hooks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Loguru-3776AB?style=flat-square&logo=python&logoColor=white" alt="Loguru" />
       </p>
-      <p><a href="https://github.com/RajPriyam68/EmpathAi">Repository</a></p>
+      <p>
+        <a href="https://github.com/RajPriyam68/EmpathAi"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="EmpathAI repository" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>ChatBot</h3>
+      <h3><a href="https://github.com/RajPriyam68/ChatBot">ChatBot</a></h3>
       <p>Full-stack chatbot application with a React frontend and an Express API backed by MongoDB.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -197,10 +208,12 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p><a href="https://github.com/RajPriyam68/ChatBot">Repository</a></p>
+      <p>
+        <a href="https://github.com/RajPriyam68/ChatBot"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="ChatBot repository" /></a>
+      </p>
     </td>
     <td valign="top" width="50%">
-      <h3>Snake Game</h3>
+      <h3><a href="https://github.com/RajPriyam68/snake-game">Snake Game</a></h3>
       <p>Browser Snake game with canvas rendering, keyboard and touch controls, persistent high scores, and a dark/light theme.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -209,52 +222,63 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p>
-        <a href="https://github.com/RajPriyam68/snake-game">Repository</a>
-        ·
-        <a href="https://snake-game-rp-6b35.vercel.app">Live Demo</a>
+        <a href="https://github.com/RajPriyam68/snake-game"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Snake Game repository" /></a>
+        <a href="https://snake-game-rp-6b35.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" alt="Snake Game live demo" /></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="4" width="120" alt="" />
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="4" width="120" alt="" />
+</p>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center"><strong>GitHub Analytics</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajPriyam68&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPriyam68&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajPriyam68&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for RajPriyam68" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPriyam68&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for RajPriyam68" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RajPriyam68&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=RajPriyam68&theme=tokyonight&hide_border=true" alt="GitHub streak for RajPriyam68" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajPriyam68&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajPriyam68&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph for RajPriyam68" width="800" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="4" width="120" alt="" />
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="4" width="120" alt="" />
+</p>
 
-<h2 align="center">Achievements & Highlights</h2>
+<h2 align="center"><strong>Achievements & Highlights</strong></h2>
 
 - Completed a 4-week web development training task with CODTECH IT Solutions (Oct–Nov 2024).
 - Building production-oriented full-stack, AI, and blockchain projects with CI via GitHub Actions.
 
 <!-- Add verified hackathons, certifications, or awards here when source links are available. -->
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="4" width="120" alt="" />
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="4" width="120" alt="" />
+</p>
 
-<h2 align="center">Currently Learning & Goals</h2>
+<h2 align="center"><strong>Currently Learning & Goals</strong></h2>
 
 - Strengthening Java DSA and problem-solving fundamentals.
 - Building production-quality full-stack applications.
 - Developing AI-powered applications with LLMs and RAG.
 - Improving software engineering, testing, and deployment practices.
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-8B5CF6?style=flat-square" height="4" width="120" alt="" />
+  <img src="https://img.shields.io/badge/%20-22D3EE?style=flat-square" height="4" width="120" alt="" />
+</p>
 
-<h2 align="center">Contact & Connect</h2>
+<h2 align="center"><strong>Contact & Connect</strong></h2>
 
 <p align="center">
   <a href="https://github.com/RajPriyam68"><img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

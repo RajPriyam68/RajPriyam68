@@ -136,11 +136,17 @@
 
 <h2 align="center"><strong>Featured Projects</strong></h2>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/PeerMatch">PeerMatch</a></h3>
-      <p>Blockchain-based peer-to-peer renewable energy marketplace with intelligent matching, dynamic price discovery, and transparent on-chain settlement evidence.</p>
+      <p>Peer-to-peer renewable energy marketplace that matches surplus supply with demand and records settlement evidence on an EVM network.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>Deterministic matcher for partial and full energy trades</li>
+        <li>Buyer bidding with dynamic price discovery</li>
+        <li>On-chain trade evidence after backend receipt verification</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -157,6 +163,12 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/LongevIQ">LongevIQ</a></h3>
       <p>AI health copilot for medical-document understanding, conversational retrieval, and personalized wellness planning. Educational and non-diagnostic.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>Medical report upload with OCR and structured lab findings</li>
+        <li>RAG assistant grounded in a published knowledge base</li>
+        <li>Nutrition and workout plan generation from user profiles</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -173,7 +185,13 @@
   <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/ai-knowledge-base">AI Knowledge Base</a></h3>
-      <p>Document question-answering platform using retrieval-augmented generation, embeddings, and cited answers over uploaded files.</p>
+      <p>Document question-answering platform that retrieves relevant chunks and returns grounded answers with source citations.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>PDF, DOCX, TXT, and Markdown ingest with chunking</li>
+        <li>Semantic search over PostgreSQL and pgvector</li>
+        <li>RAG answers with citations and chat history</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -188,7 +206,13 @@
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/EmpathAi">EmpathAI</a></h3>
-      <p>Non-clinical mental health support companion with multi-turn conversation, sentiment scoring, session memory, and observability hooks.</p>
+      <p>Non-clinical mental health support companion for multi-turn conversation, sentiment scoring, and session memory.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>Multi-turn conversational loop with context compaction</li>
+        <li>Simple sentiment scoring and in-memory session history</li>
+        <li>Logging and basic metrics for observability</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Loguru-3776AB?style=flat-square&logo=python&logoColor=white" alt="Loguru" />
@@ -202,6 +226,12 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/ChatBot">ChatBot</a></h3>
       <p>Full-stack chatbot application with a React frontend and an Express API backed by MongoDB.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>React chat interface with Tailwind CSS</li>
+        <li>Express API with MongoDB persistence</li>
+        <li>Concurrent frontend and backend development setup</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -215,6 +245,12 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/RajPriyam68/snake-game">Snake Game</a></h3>
       <p>Browser Snake game with canvas rendering, keyboard and touch controls, persistent high scores, and a dark/light theme.</p>
+      <p><strong>Key features</strong></p>
+      <ul>
+        <li>60 FPS canvas gameplay with keyboard and mobile controls</li>
+        <li>Persistent high scores and leaderboard</li>
+        <li>Dark/light theme with pause and replay flows</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -236,10 +272,16 @@
 
 <h2 align="center"><strong>GitHub Analytics</strong></h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajPriyam68&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for RajPriyam68" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPriyam68&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for RajPriyam68" height="160" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=RajPriyam68&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for RajPriyam68" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPriyam68&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for RajPriyam68" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RajPriyam68&theme=tokyonight&hide_border=true" alt="GitHub streak for RajPriyam68" />
